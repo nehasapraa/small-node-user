@@ -10,3 +10,6 @@ npm install
 //start server
 npm start
 ```
+
+DDL
+![Users](/out/db.png)
